@@ -128,7 +128,7 @@ Key recommendations include focusing on targeted marketing efforts, revisiting p
 
 # **Section 12: View/ Download Project Files**
 
-•	[Business Case (PDF)](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Project%20Charter_NK.pdf)
+•	[Business Case (PDF)](https://github.com/nitinskunigal/Vision360-Business-Analysis-Project/blob/main/Business%20Case.pdf)
 
 • [Project Charter (PDF)](https://github.com/nitinskunigal/Vision360-Business-Analysis-Project/blob/main/Project%20Charter.pdf)
 
