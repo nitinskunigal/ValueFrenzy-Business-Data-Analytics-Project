@@ -1,5 +1,5 @@
 # **Section 1: Project Overview**  
-This project serves as a comprehensive business analysis for ValueFrenzy, a fictional supermarket chain specializing in Retail and Consumer Goods products across the USA, Mexico, and Canada. With a focus on diagnosing critical business challenges, the project examines key performance metrics—Total Revenue, Gross Profit, Quantity Sold, Total Transactions, and Average Transaction Value (ATV)—to uncover actionable insights and strategic recommendations for sustainable growth.
+This project is an in-depth analysis of sales data for ValueFrenzy, a fictional supermarket chain specializing in Retail and Consumer Goods products across the USA, Mexico, and Canada. With a focus on diagnosing critical business challenges, the project examines key performance metrics—Total Revenue, Gross Profit, Quantity Sold, Total Transactions, and Average Transaction Value (ATV)—to uncover actionable insights and strategic recommendations for sustainable growth.
 Leveraging historical sales data from 2021 to 2023, the analysis explores performance trends across regions and product categories (low-tier groceries, medium-tier household goods, and high-tier electronics). The primary objective is to address significant revenue and profitability declines in the USA market, identify root causes, and propose targeted strategies to enhance ValueFrenzy's competitive positioning and operational efficiency.
   
 The objective of this project is to assist ValueFrenzy in understanding sales trends from 2021-2023, identify the root causes of declining revenue and profitability, and provide actionable insights and recommendations to improve operational efficiency and market competitiveness across its three regions: USA, Mexico, and Canada.
@@ -100,7 +100,7 @@ While this project provides valuable insights, there are several ways it can be 
 Working on the ValueFrenzy data analysis project has provided invaluable insights from various business and analytical perspectives:
 
 ## ***1. Data Preparation and Cleaning:***
-The importance of robust data preparation and cleaning cannot be overstated in any business analysis. Dealing with incomplete and inconsistent data required a deep dive into Power Query for automated cleaning processes. This taught me how to effectively resolve data quality issues and ensure accurate, reliable data for analysis.
+The importance of robust data preparation and cleaning cannot be overstated in any business data analytics. Dealing with incomplete and inconsistent data required a deep dive into Power Query for automated cleaning processes. This taught me how to effectively resolve data quality issues and ensure accurate, reliable data for analysis.
 
 ## ***2. Working with Real-World Business Data:***
 The ability to contextualize data according to business logic—such as segmenting by product tiers and regions—was a crucial lesson. Understanding the underlying business rules and objectives helped refine data transformations and ensured that the analysis aligned with business priorities, enhancing the decision-making process.
@@ -115,12 +115,12 @@ Setting up an effective data model (skeleton) upfront, before loading data into 
 Creating a dashboard that effectively conveyed business insights was a valuable lesson in visual communication. Balancing aesthetics with functionality—ensuring key business insights were presented in an easy-to-understand, accessible format—helped me refine my skills in visual storytelling. A well-designed dashboard enables decision-makers to quickly grasp important trends and make informed decisions.
 
 ## ***6. Stakeholder Collaboration and Feedback:***
-Working through feedback loops with hypothetical stakeholders, such as Sarah (COO), emphasized the importance of engaging stakeholders early and often in the analysis process. The ability to adjust my analysis and recommendations based on feedback, especially from a business-oriented perspective, reinforced the value of a collaborative, iterative approach in business analysis.
+Working through feedback loops with hypothetical stakeholders, such as Sarah (COO), emphasized the importance of engaging stakeholders early and often in the analysis process. The ability to adjust my analysis and recommendations based on feedback, especially from a business-oriented perspective, reinforced the value of a collaborative, iterative approach in business data analytics.
 
 ## ***7. Time Management and Agile Approach:***
 Managing the project in sprints and delivering results incrementally taught me the value of flexibility and adaptability in meeting evolving business needs. Whether gathering data, analyzing trends, or presenting insights, I learned to prioritize tasks and maintain a balance between strategic goals and tight timelines.
 
-Overall, this project was a comprehensive learning experience, covering everything from technical data handling to strategic business analysis and communication. It has prepared me well for future business analysis projects where technical skills, business understanding, and stakeholder engagement all converge.
+Overall, this project was a comprehensive learning experience, covering everything from technical data handling to strategic business data analytics and communication. It has prepared me well for future business analysis projects where technical skills, business understanding, and stakeholder engagement all converge.
 
 # **Section 11: Conclusion**
 This project has provided a comprehensive analysis of ValueFrenzy’s sales performance across its key markets: the USA, Mexico, and Canada. By analyzing KPIs like Total Revenue, Gross Profit, Quantity Sold, and Average Transaction Value (ATV), we were able to uncover critical insights into declining revenue and profitability. The findings suggest that a combination of product segmentation, regional variations, and customer behavior are driving these trends.
@@ -128,17 +128,15 @@ Key recommendations include focusing on targeted marketing efforts, revisiting p
 
 # **Section 12: View/ Download Project Files**
 
-•	[Business Case (PDF)](https://github.com/nitinskunigal/Vision360-Business-Analysis-Project/blob/main/Business%20Case.pdf)
-
 • [Project Charter (PDF)](https://github.com/nitinskunigal/Vision360-Business-Analysis-Project/blob/main/Project%20Charter.pdf)
 
 • [Project Report (PDF)](https://github.com/nitinskunigal/Vision360-Business-Analysis-Project/blob/main/Project%20Report.pdf)
 
-•	[Presentation Slides (PDF)](https://github.com/nitinskunigal/Vision360-Business-Analysis-Project/blob/main/Project%20Presentation.pdf)
+• [Presentation Slides (PDF)](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project/blob/main/Project%20Presentation.pdf)
 
-•	[Project Presentation (Video) - Strategic Level](https://vimeo.com/1017163715/5b8ede65e1)
+• [Project Presentation (Video) - Strategic Level](https://vimeo.com/1017163715/5b8ede65e1)
 
-•	[Excel Dashboard Walkthrough Video Presentation](https://vimeo.com/1017520699/1e8d13e93d)
+• [Excel Dashboard Walkthrough Video Presentation](https://vimeo.com/1017520699/1e8d13e93d)
 
 # Note: 
 Screenshots of the ValueFrenzy multi-page dashboard are available in this repository. For those interested in exploring the interactive Excel version, feel free to reach out to me, and I’d be happy to provide access.
