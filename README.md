@@ -1,74 +1,107 @@
 # **Section 1: Project Overview**  
-This project is an in-depth analysis of sales data for ValueFrenzy, a fictional supermarket chain specializing in Retail and Consumer Goods products across the USA, Mexico, and Canada. With a focus on diagnosing critical business challenges, the project examines key performance metrics—Total Revenue, Gross Profit, Quantity Sold, Total Transactions, and Average Transaction Value (ATV)—to uncover actionable insights and strategic recommendations for sustainable growth.
-Leveraging historical sales data from 2021 to 2023, the analysis explores performance trends across regions and product categories (low-tier groceries, medium-tier household goods, and high-tier electronics). The primary objective is to address significant revenue and profitability declines in the USA market, identify root causes, and propose targeted strategies to enhance ValueFrenzy's competitive positioning and operational efficiency.
-  
-The objective of this project is to assist ValueFrenzy in understanding sales trends from 2021-2023, identify the root causes of declining revenue and profitability, and provide actionable insights and recommendations to improve operational efficiency and market competitiveness across its three regions: USA, Mexico, and Canada.
+The earlier version of ValueFrenzy project primarily focused on data analysis—uncovering sales trends, transaction patterns, and pricing inefficiencies. But business decisions aren’t just about data; they require strategic alignment, stakeholder insights, and business context. That’s why I enhanced this project—integrating Business Analysis (BA) techniques to drive actionable solutions. This project presents a business analysis of ValueFrenzy, a fictional supermarket chain across the USA, Mexico, and Canada. 
+
+The analysis aims to diagnose critical business challenges, particularly declining revenue and profitability in the USA, while exploring key performance metrics—Total Revenue, Gross Profit, Quantity Sold, Total Transactions, and Average Transaction Value (ATV). The project’s core objective is to provide actionable insights and strategic recommendations that enhance ValueFrenzy's market positioning, operational efficiency, and customer engagement.
+
+Using historical sales data from 2021 to 2023, the analysis identifies regional trends, product performance, and customer behavior to help ValueFrenzy make data-driven business decisions. By addressing key issues such as profitability erosion, shifts in consumer demand, and regional performance disparities, this project enables ValueFrenzy to refine its business strategy for sustainable growth.
 
 # **Section 2: Motivation**  
-The Retail and Consumer Goods industry is characterized by intense competition, evolving customer preferences, and thin profit margins. For a supermarket chain like ValueFrenzy, sustaining profitability while adapting to these dynamic market conditions is critical. This project was motivated by the need to analyze historical performance trends, identify operational and strategic gaps, and uncover opportunities for growth.
-By addressing key challenges such as declining revenue in the USA and shifting customer behaviors across regions, the project seeks to equip ValueFrenzy with actionable insights to enhance decision-making, improve customer satisfaction, and maintain its competitive edge in the Retail and Consumer Goods landscape.
+The Retail and Consumer Goods industry operates in a highly competitive and rapidly evolving market environment. Supermarkets like ValueFrenzy face challenges such as changing customer preferences, fluctuating costs, and competitive pricing pressures. This project was motivated by the need to:
+
+✅ Understand why ValueFrenzy is experiencing a decline in revenue and profitability in the USA.
+
+✅ Identify trends in customer spending habits across different regions and product categories.
+
+✅ Provide data-backed recommendations to improve operational efficiency, pricing strategies, and customer satisfaction.
+
+✅ Support strategic decision-making through business-driven insights rather than purely numerical analysis.
+
 
 # **Section 3: Data Sources**
-The dataset used for this analysis consisted of historical sales data spanning the years 2021-2023, provided in CSV format. This eliminated the need for database queries or SQL-based data retrieval. Instead, the data was directly imported into Power Query for cleaning, transformation, and modeling, ensuring a streamlined and efficient data preparation process.
-The dataset captured critical metrics, including sales transactions, product categories, and regional performance, which were essential for deriving actionable insights and aligning recommendations with ValueFrenzy’s business goals.
+The analysis is based on historical sales data from 2021-2023, available in CSV format. The data includes sales transactions, product categories, and regional performance metrics. To prepare the data for analysis:
 
-# **Section 4: Data Model**
+✅ Power Query was used for data cleaning and transformation.
 
-The data model for this project was meticulously crafted using Power Pivot, establishing robust relationships between the fact table (sales data) and dimension tables (products, regions, and time periods). Serving as the analytical backbone, the data model enables seamless integration of complex calculations and dynamic insights. It facilitates multi-dimensional data slicing and trend analysis, providing a solid foundation for actionable recommendations. The relationships are structured as follows:
+✅ Power Pivot was utilized to establish relationships between sales data (fact table) and relevant business dimensions (products, regions, and time).
 
-![ValueFrenzy Data Model](https://github.com/user-attachments/assets/f95401f3-dde9-4cc9-a792-837262b9d0c0)
- 
-## ***Fact Table (Sales):***
-Consolidates sales transaction data (2021–2023) segmented by region, product category, and time.
-## ***Dimension Tables:***
-### *Products:* 
-Classifies products into three tiers—low-tier (groceries), medium-tier (household goods), and high-tier (electronics).
-### *Regions:* 
-Includes data for ValueFrenzy’s operational regions—USA, Mexico, and Canada.
-### *Calendar:* 
-Segments data by year, quarter, and month to enable granular trend analysis.
+✅ No SQL queries were required, as all transformations were performed within Excel’s ecosystem.
 
-If you want to take a sneak-peak into the Excel Dashboard, do check out the [Excel Dashboard Walkthrough Video Presentation](https://vimeo.com/1017520699/1e8d13e93d)
-
-# **Section 5: Key KPIs**
+# **Section 4: Key KPIs**
 
 ## **Total Revenue**
-•	 Measures the overall income generated across all regions (USA, Mexico, and Canada) and product categories.
+✔ Measures the overall income generated across all regions (USA, Mexico, and Canada) and product categories.
 
-•	 Purpose: To evaluate regional revenue contributions, identify trends, and assess the impact of strategic decisions on overall income.
+✔ Purpose: To evaluate regional revenue contributions, identify trends, and assess the impact of strategic decisions on overall income.
 
 ## **Gross Profit**
-•	Calculated as Total Revenue minus the Cost of Goods Sold (COGS).
+✔ Calculated as Total Revenue minus the Cost of Goods Sold (COGS).
 
-•	Purpose: To provide insights into the profitability of products and regions, guiding decisions on cost management and margin optimization.
+✔ Purpose: To provide insights into the profitability of products and regions, guiding decisions on cost management and margin optimization.
 
 ## **Quantity Sold**
-•	Represents the total units sold across all regions and product tiers (low, medium, and high).
+✔ Represents the total units sold across all regions and product tiers (low, medium, and high).
 
-•	Purpose: To analyze product performance, demand trends, and the effectiveness of sales strategies.
+✔ Purpose: To analyze product performance, demand trends, and the effectiveness of sales strategies.
 
 ## **Total Transactions**
-•	The total number of customer transactions processed across all regions.
+✔ The total number of customer transactions processed across all regions.
 
-•	Purpose: To understand customer activity and engagement levels, and their impact on revenue generation.
+✔ Purpose: To understand customer activity and engagement levels, and their impact on revenue generation.
 
 ## **Average Transaction Value (ATV)**
-•	The average value of a single transaction, calculated as Total Revenue divided by Total Transactions.
+✔ The average value of a single transaction, calculated as Total Revenue divided by Total Transactions.
 
-•	Purpose: To gauge customer spending behavior, identify opportunities for upselling, and align pricing strategies with market demand.
+✔ Purpose: To gauge customer spending behavior, identify opportunities for upselling, and align pricing strategies with market demand.
 
-# **Section 6: Insights and Recommendations**
-The detailed insights and actionable recommendations derived from this project are comprehensively documented in the project report. This includes:
+# **Section 5: Key BA Techniques Used**
 
-•	Root cause analysis of declining revenue and profitability.
+✅ SWOT & Gap Analysis – Assessed internal inefficiencies and competitive positioning.
 
-•	Regional and product-tier-specific performance trends.
+✅ Process Mapping – Mapped inventory & checkout workflows to streamline operations.
 
-•	Strategies to enhance operational efficiency and customer satisfaction.
+✅ Stakeholder Interviews – Engaged the COO, CFO, and key department heads to align insights with business strategy.
 
-For a more detailed look at the insights and recommendations, please refer to the [Project Report](https://github.com/nitinskunigal/Vision360-Business-Analysis-Project/blob/main/Project%20Report.pdf) and the [Project Presentation Slides](https://github.com/nitinskunigal/Vision360-Business-Analysis-Project/blob/main/Project%20Presentation.pdf).
+✅ Competitor Benchmarking – Evaluated market trends and industry best practices to refine recommendations.
 
-# **Section 7: Rationale Behind Choosing EXCEL as My Go-To Tool**
+# **Section 6: Key Documents Created**
+📌 Business Case – Justified project viability, expected ROI.
+
+📌 BRD – Defined business & functional requirements, success criteria.
+
+📌 Project Charter – Outlined objectives, scope & stakeholders.
+
+📌 Business Insights & Process Analysis – Included SWOT, Process Flow Diagrams, Gap Analysis, Competitor Benchmarking & Stakeholder Interviews.
+
+📌 Project Report – Consolidated insights & recommendations.
+
+# **Section 7: Business Insights and Recommendations**
+## **1. Revenue and Profitability Trends**
+
+✔ ***Observation***: The USA, which accounts for 51% of total revenue, has seen a significant decline in revenue and gross profit since late 2021.
+
+✔ **Key Drivers**: Lower customer spending, changes in product mix, and reduced transaction volume.
+
+✔ **Recommendation**: Implement targeted promotions, optimize product pricing, and reassess high-cost SKUs to improve margins.
+
+## **2. Regional Performance Comparison**
+
+✔ **Observation**: While the USA has struggled, Mexico has maintained relatively stable revenue, and Canada, despite lower total sales, has the highest Average Transaction Value (ATV).
+
+✔ **Recommendation**: Leverage successful pricing and product bundling strategies from Mexico and Canada to address performance gaps in the USA.
+
+## **3. Product Category Insights**
+
+✔ **Observation**: High-tier electronics contribute the most to revenue but have fluctuating demand, while low-tier groceries drive consistent sales volume.
+
+✔ **Recommendation**: Focus on demand forecasting to ensure optimal inventory levels and pricing adjustments for high-value products.
+
+## **4. Customer Behavior & Transactions**
+
+✔ **Observation**: Transaction volume increased in late 2021 but did not translate into higher ATV, suggesting discount-driven sales.
+
+✔ **Recommendation**: Introduce loyalty programs and targeted upselling strategies to improve customer retention and increase per-transaction spending.
+
+# **Section 8: Rationale Behind Choosing EXCEL as My Go-To Tool**
 For this project, I chose Excel as the primary tool for end-to-end data analysis due to its powerful and versatile features:
 1.	**Data Processing and Transformation in Power Query**: Enabled efficient data import, cleaning, and transformation, for medium-to-large datasets.
 
@@ -78,25 +111,16 @@ For this project, I chose Excel as the primary tool for end-to-end data analysis
 
 This project highlights Excel’s potential beyond basic spreadsheet use, showcasing its ability to handle advanced data modeling, in-depth analysis using DAX, and professional-grade reporting, all within a single tool.
 
-# **Section 8: How to Use This Project**
-While this project provides valuable insights, there are several ways it can be expanded:
+# **Section 9: Future Enhancements**
+To build on this analysis, future work could include:
 
-1.	Scaling Up: Integrate advanced tools like Power BI for more sophisticated visualizations and enhanced interactivity, particularly when working with extremely large and complex datasets.
+**1.	Advanced Visualization**: Using Power BI for real-time, interactive dashboards.
 	
-2.	Deeper Analysis: Further segment the data by product categories, customer demographics, and micro-markets to obtain more granular insights for targeted strategies.
+**2.	Customer Segmentation Analysis**: Further refining insights based on customer demographics and purchase behavior.
 	
-3.	Predictive Analytics: Implement machine learning models to forecast future sales trends, customer behaviors, and potential revenue, allowing for data-driven decision-making.
+**3.	Predictive Modeling**: Applying forecasting techniques to anticipate revenue trends and optimize business strategies.
 
-# **Section 9: Future Work / Next Steps**
-While this project provides valuable insights, there are several ways it can be expanded:
-
-1.	Scaling Up: Integrate more advanced data tools like Power BI for enhanced visualizations and interactivity, especially for larger datasets.
-
-2.	Deeper Analysis: Further segment the data by product categories, customer demographics, and geographic micro-markets to gain more granular insights.
-
-3.	Predictive Analytics: Use machine learning models to forecast future sales trends, customer behavior, and revenue potential.
-
-# **Section 10: Lessons Learned**
+# **Section 10: Key Takeaways & Lessons Learned**
 Working on the ValueFrenzy data analysis project has provided invaluable insights from various business and analytical perspectives:
 
 ## ***1. Data Preparation and Cleaning:***
@@ -123,18 +147,24 @@ Managing the project in sprints and delivering results incrementally taught me t
 Overall, this project was a comprehensive learning experience, covering everything from technical data handling to strategic business data analytics and communication. It has prepared me well for future business analysis projects where technical skills, business understanding, and stakeholder engagement all converge.
 
 # **Section 11: Conclusion**
-This project has provided a comprehensive analysis of ValueFrenzy’s sales performance across its key markets: the USA, Mexico, and Canada. By analyzing KPIs like Total Revenue, Gross Profit, Quantity Sold, and Average Transaction Value (ATV), we were able to uncover critical insights into declining revenue and profitability. The findings suggest that a combination of product segmentation, regional variations, and customer behavior are driving these trends.
-Key recommendations include focusing on targeted marketing efforts, revisiting product pricing strategies, and leveraging data-driven decision-making to optimize operations. The project has reinforced the importance of aligning data analysis with business goals and demonstrated how Excel can be a powerful tool for both technical analysis and presenting actionable business insights.
+This project provided a structured approach to diagnosing ValueFrenzy’s business challenges and opportunities. By integrating data analysis with strategic recommendations, the findings offer a roadmap for improving revenue, optimizing product offerings, and enhancing customer engagement.
+By shifting focus from pure analytics to a business-driven perspective, this project reinforces how data-driven decision-making can transform a company’s operational and financial performance.
 
 # **Section 12: View/ Download Project Files**
 
-• [Project Charter (PDF)](https://github.com/nitinskunigal/Vision360-Business-Analysis-Project/blob/main/Project%20Charter.pdf)
+• [Business Case (PDF)](https://github.com/nitinskunigal/ValueFrenzy-Business-Analysis-Project/blob/main/Business%20Case.pdf)
+
+• [Business Requirements Document (BRD) (PDF)](https://github.com/nitinskunigal/ValueFrenzy-Business-Analysis-Project/blob/main/Business%20Requirements%20Document%20(BRD).pdf)
+
+• [Project Charter (PDF)](https://github.com/nitinskunigal/ValueFrenzy-Business-Analysis-Project/blob/main/Project%20Charter.pdf)
+
+• [Business Insights & Process Analysis (PDF)](https://github.com/nitinskunigal/ValueFrenzy-Business-Analysis-Project/blob/main/Business%20Insights%20%26%20Process%20Analysis.pdf)
 
 • [Project Report (PDF)](https://github.com/nitinskunigal/Vision360-Business-Analysis-Project/blob/main/Project%20Report.pdf)
 
-• [Presentation Slides (PDF)](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project/blob/main/Project%20Presentation.pdf)
+• [Presentation Slides (PDF)](https://github.com/nitinskunigal/ValueFrenzy-Business-Analysis-Project/blob/main/Project%20Presentation.pdf)
 
-• [Project Presentation (Video) - Strategic Level](https://vimeo.com/1017163715/5b8ede65e1)
+• [Project Presentation (Video)](https://vimeo.com/1060217577/b759d7e0de)
 
 • [Excel Dashboard Walkthrough Video Presentation](https://vimeo.com/1017520699/1e8d13e93d)
 
