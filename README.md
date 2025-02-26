@@ -160,6 +160,8 @@ By shifting focus from pure analytics to a business-driven perspective, this pro
 
 • [Business Insights & Process Analysis (PDF)](https://github.com/nitinskunigal/ValueFrenzy-Business-Analysis-Project/blob/main/Business%20Insights%20%26%20Process%20Analysis.pdf)
 
+• [Process Flow Diagrams (PDF)](https://github.com/nitinskunigal/ValueFrenzy-Business-Analysis-Project/blob/main/Process%20Flow%20Diagrams.pdf)
+
 • [Project Report (PDF)](https://github.com/nitinskunigal/Vision360-Business-Analysis-Project/blob/main/Project%20Report.pdf)
 
 • [Presentation Slides (PDF)](https://github.com/nitinskunigal/ValueFrenzy-Business-Analysis-Project/blob/main/Project%20Presentation.pdf)
