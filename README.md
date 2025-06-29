@@ -28,30 +28,51 @@ The analysis is based on historical sales data from 2021-2023, available in CSV 
 
 # **Section 4: Key KPIs**
 
-## **Total Revenue**
+### **Total Revenue**
 ✔ Measures the overall income generated across all regions (USA, Mexico, and Canada) and product categories.
 
 ✔ Purpose: To evaluate regional revenue contributions, identify trends, and assess the impact of strategic decisions on overall income.
 
-## **Gross Profit**
+### **Gross Profit**
 ✔ Calculated as Total Revenue minus the Cost of Goods Sold (COGS).
 
 ✔ Purpose: To provide insights into the profitability of products and regions, guiding decisions on cost management and margin optimization.
 
-## **Quantity Sold**
+### **Quantity Sold**
 ✔ Represents the total units sold across all regions and product tiers (low, medium, and high).
 
 ✔ Purpose: To analyze product performance, demand trends, and the effectiveness of sales strategies.
 
-## **Total Transactions**
+### **Total Transactions**
 ✔ The total number of customer transactions processed across all regions.
 
 ✔ Purpose: To understand customer activity and engagement levels, and their impact on revenue generation.
 
-## **Average Transaction Value (ATV)**
+### **Average Transaction Value (ATV)**
 ✔ The average value of a single transaction, calculated as Total Revenue divided by Total Transactions.
 
 ✔ Purpose: To gauge customer spending behavior, identify opportunities for upselling, and align pricing strategies with market demand.
+
+## **Rationale Behind Selected KPIs:**
+
+In our analysis of ValueFrenzy, we focused on five key performance indicators (KPIs): Total Revenue, Gross Profit, Quantity Sold, Total Transactions, and Average Transaction Value (ATV). This selection was based on the following considerations:
+
+✔ Alignment with Analysis Objectives: The chosen KPIs align directly with the project’s primary objectives: understanding revenue generation, profitability, and customer purchasing behavior across regions and product tiers. These metrics provide actionable insights into ValueFrenzy’s operational performance.
+
+✔ Data Availability and Quality: The analysis was guided by the availability of reliable data. While metrics such as Total Returns or Return Rate are valuable in Retail and Consumer Goods projects, they were excluded due to the absence of relevant data in the dataset provided. Including incomplete or speculative metrics could have compromised the accuracy and credibility of the analysis.
+
+✔ Simplicity and Actionability: Focusing on five KPIs ensured a clear and actionable analysis, avoiding unnecessary complexity. This approach allowed us to derive targeted insights and recommendations without overwhelming the stakeholders with excessive data.
+
+✔ Economic Context: Given the challenging economic environment and ValueFrenzy’s specific issues, such as declining revenue and profitability, the selected KPIs addressed the most pressing concerns, such as regional performance, transaction patterns, and profitability trends.
+
+✔ Industry Best Practices: These KPIs reflect standard practices in Retail and Consumer Goods performance analysis, where revenue, transaction volumes, and customer behavior patterns are prioritized to drive business decisions.
+
+✔ Future Exploration: While this analysis focused on the most relevant metrics for the current objectives, we acknowledge the importance of other KPIs like:
+  - Total Returns and Return Rate: To analyze product performance and customer satisfaction.
+  - Customer Retention Rate: To assess long-term customer loyalty.
+  - Inventory Turnover: To evaluate operational efficiency and stock management. 
+
+These metrics could be explored in future assessments as part of a broader analysis to provide deeper insights into ValueFrenzy’s overall business dynamics.
 
 # **Section 5: Key BA Techniques Used**
 
