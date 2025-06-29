@@ -85,8 +85,6 @@ These metrics could be explored in future assessments as part of a broader analy
 ✅ Competitor Benchmarking – Evaluated market trends and industry best practices to refine recommendations.
 
 # **Section 6: Key Documents Created**
-📌 Business Case – Justified project viability, expected ROI.
-
 📌 BRD – Defined business & functional requirements, success criteria.
 
 📌 Project Charter – Outlined objectives, scope & stakeholders.
@@ -345,8 +343,6 @@ This project provided a structured approach to diagnosing ValueFrenzy’s busine
 By shifting focus from pure analytics to a business-driven perspective, this project reinforces how data-driven decision-making can transform a company’s operational and financial performance.
 
 # **Section 12: View/ Download Project Files**
-
-• [Business Case (PDF)](https://github.com/nitinskunigal/ValueFrenzy-Business-Analysis-Project/blob/main/Business%20Case.pdf)
 
 • [Business Requirements Document (BRD) (PDF)](https://github.com/nitinskunigal/ValueFrenzy-Business-Analysis-Project/blob/main/Business%20Requirements%20Document%20(BRD).pdf)
 
