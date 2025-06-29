@@ -77,6 +77,8 @@ The analysis is based on historical sales data from 2021-2023, available in CSV 
 # **Section 7: Business Insights and Recommendations**
 ## **Insight 1: Declining Revenue and Gross Profit**
 
+![Insight 1](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project/blob/main/Insights%20Screenshots/Insight%201.png)
+
 <ins>Insight<ins>: 
 
 The USA contributed the highest revenue (51%) but faced steep declines, driven by reduced high-tier sales and economic challenges. Mexico showed relative resilience, with medium-tier products driving revenue, while Canada, though a smaller market, remained stable, mitigating some overall losses.
@@ -98,8 +100,6 @@ The USA contributed the highest revenue (51%) but faced steep declines, driven b
 ✔ ATV Decline: A sharp drop in Average Transaction Value since Dec 2021 further impacted revenue.
 
 ✔ Market Dynamics: USA sales suffered most in high-tier categories, reflecting a need for region-specific strategies.
-
-
 
 ## **Recommendation 1: Strategies to Address Declining Revenue and Gross Profit**
 
@@ -134,6 +134,8 @@ The USA contributed the highest revenue (51%) but faced steep declines, driven b
   - Adjust product offerings and pricing based on trends to better meet consumer needs.
 
 ## **Insight 2: Stable Quantity Sold but Declining Profit Margins**
+
+![Insight 2](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project/blob/main/Insights%20Screenshots/Insight%202.png)
 
 <ins>Insight<ins>: 
 
@@ -179,9 +181,9 @@ ValueFrenzy maintained a high total sales volume of 15.7 million units, but ther
 
   - Use regional feedback to refine product offerings and ensure inventory aligns with local customer demand.
 
-
-
 ## **Insight 3: Disparity Between Transactions and ATV Trends (Oct–Dec)**
+
+![Insight 3](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project/blob/main/Insights%20Screenshots/Insight%203.png)
 
 <ins>Insight<ins>: 
 
