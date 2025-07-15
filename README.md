@@ -8,22 +8,22 @@ The ultimate objective was not only to diagnose the root causes of these challen
 # **Section 2: Motivation**  
 The Retail and Consumer Goods industry operates in a highly competitive and rapidly evolving market environment. Supermarkets like ValueFrenzy face challenges such as changing customer preferences, fluctuating costs, and competitive pricing pressures. This project was motivated by the need to:
 
-✅ Understand why ValueFrenzy is experiencing a decline in revenue and profitability in the USA.
+- Understand why ValueFrenzy is experiencing a decline in revenue and profitability in the USA.
 
-✅ Identify trends in customer spending habits across different regions and product categories.
+- Identify trends in customer spending habits across different regions and product categories.
 
-✅ Provide data-backed recommendations to improve operational efficiency, pricing strategies, and customer satisfaction.
+- Provide data-backed recommendations to improve operational efficiency, pricing strategies, and customer satisfaction.
 
-✅ Support strategic decision-making through business-driven insights rather than purely numerical analysis.
+- Support strategic decision-making through business-driven insights rather than purely numerical analysis.
 
 # **Section 3: Data Sources**
 The analysis is based on historical sales data from 2021-2023, available in CSV format. The data includes sales transactions, product categories, and regional performance metrics. To prepare the data for analysis:
 
-✅ Power Query was used for data cleaning and transformation.
+- Power Query was used for data cleaning and transformation.
 
-✅ Power Pivot was utilized to establish relationships between sales data (fact table) and relevant business dimensions (products, regions, and time).
+- Power Pivot was utilized to establish relationships between sales data (fact table) and relevant business dimensions (products, regions, and time).
 
-✅ No SQL queries were required, as all transformations were performed within Excel’s ecosystem.
+- No SQL queries were required, as all transformations were performed within Excel’s ecosystem.
 
 # **Section 4: Key Performance Indicators & Rationale behind Selected KPIs**
 
@@ -50,13 +50,13 @@ At the start of the project, I needed to understand ValueFrenzy’s current perf
 By combining these techniques, I was able to translate business challenges into data-driven insights, ensuring that the recommendations were both practical and actionable.
 
 # **Section 6: Key Documents Created**
-📌 BRD – Defined business & functional requirements, success criteria.
+- BRD – Defined business & functional requirements, success criteria.
 
-📌 Project Charter – Outlined objectives, scope & stakeholders.
+- Project Charter – Outlined objectives, scope & stakeholders.
 
-📌 Business Insights & Process Analysis – Included SWOT, Process Flow Diagrams, Gap Analysis, Competitor Benchmarking & Stakeholder Interviews.
+- Business Insights & Process Analysis – Included SWOT, Process Flow Diagrams, Gap Analysis, Competitor Benchmarking & Stakeholder Interviews.
 
-📌 Project Report – Consolidated insights & recommendations.
+- Project Report – Consolidated insights & recommendations.
 
 # **Section 7: Key Business Insights**
 ## **Declining Revenue and Gross Profit:**
