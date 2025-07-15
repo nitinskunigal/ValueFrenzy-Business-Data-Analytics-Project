@@ -200,6 +200,3 @@ By shifting focus from pure analytics to a business-driven perspective, this pro
 • [Project Presentation (Video)](https://vimeo.com/1060217577/b759d7e0de)
 
 • [Excel Dashboard Walkthrough Video Presentation](https://vimeo.com/1017520699/1e8d13e93d)
-
-# Note: 
-Screenshots of the ValueFrenzy multi-page dashboard are available in this repository. For those interested in exploring the interactive Excel version, feel free to reach out to me, and I’d be happy to provide access.
