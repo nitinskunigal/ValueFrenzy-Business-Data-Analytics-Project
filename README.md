@@ -59,7 +59,7 @@ By combining these techniques, I was able to translate business challenges into 
 - Project Report – Consolidated insights & recommendations.
 
 # **Section 7: Key Business Insights**
-## **Declining Revenue and Gross Profit:**
+## **1. Declining Revenue and Gross Profit:**
 
 ![Insights - Total Revenue](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project/blob/main/Insights%20Screenshots/Insights%20-%20Total%20Revenue.png)
 
@@ -71,7 +71,7 @@ By combining these techniques, I was able to translate business challenges into 
   
 - The core issue was a decline in high-tier sales, particularly in the USA, driven by economic strain, inflation, and a drop in ATV since Dec-2021. Additionally, weekday profits totaled $14.1M, while weekend profits were lower at $5.7M, indicating a need to boost weekend sales.
 
-## **Drop in the Overall Quantity Sold**
+## **2. Drop in the Overall Quantity Sold**
 
 ![Insights - Quantity Sold](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project/blob/main/Insights%20Screenshots/Insights%20-%20Quantity%20Sold.png)
 
@@ -79,7 +79,7 @@ By combining these techniques, I was able to translate business challenges into 
   
 - Despite having the highest ATV, high-tier products contributed 17% of total quantity sold, which happens to be the lowest amongst three categories, and needs granular attention. This decline was significant as consumers prioritized essential goods over discretionary items.
 
-## **Disparity Between Transactions and ATV Trends (Oct–Dec)**
+## **3. Disparity Between Transactions and ATV Trends (Oct–Dec)**
 
 ![Insights - Total Transactions](https://github.com/nitinskunigal/ValueFrenzy-Business-Data-Analytics-Project/blob/main/Insights%20Screenshots/Insights%20-%20Total%20Transactions.png)
 
