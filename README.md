@@ -1,7 +1,7 @@
 # **Section 1: Problem Statement**  
 This project analyzes ValueFrenzy, a fictional supermarket chain in the USA, Mexico, and Canada, facing stagnant revenue growth and profitability concerns across regions and product categories. The COO and CFO sought insights into slowing revenue and potential regional inefficiencies or product performance issues.
 
-As the Business Analyst, I examined three years (2021-2023) of sales data, identifying trends affecting revenue, profit, and transaction values. Using Advanced Excel (Power Query, Power Pivot, DAX) and BA techniques (SWOT, Gap Analysis, Stakeholder Interviews, Competitor Benchmarking), I conducted in-depth analysis and created business reports. I developed an interactive dashboard that revealed a 25% drop in Average Transaction Value (ATV) and regional sales disparities.
+As the Business Analyst, I examined three years (2021-2023) of sales data, identifying trends affecting revenue, profit, and transaction values. Using Advanced Excel (Power Query, Power Pivot, DAX) and BA techniques (SWOT, Gap Analysis, Stakeholder Interviews, Competitor Benchmarking), I conducted in-depth analysis and created business reports. 
 
 The ultimate objective was not only to diagnose the root causes of these challenges but also to provide actionable recommendations for revenue recovery and strategies to sustain growth.
 
